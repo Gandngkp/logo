@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logo-ci.svg"
+   inkscape:export-filename="/home/seba/Scrivania/logo.png"
+   inkscape:export-xdpi="169.33333"
+   inkscape:export-ydpi="169.33333">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4562">
+      <stop
+         style="stop-color:#0072ff;stop-opacity:1"
+         offset="0"
+         id="stop4558" />
+      <stop
+         style="stop-color:#00c6ff;stop-opacity:1"
+         offset="1"
+         id="stop4560" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4562"
+       id="linearGradient845"
+       x1="-25.591993"
+       y1="120.60472"
+       x2="-20.710087"
+       y2="126.76616"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(30,0,0,30,844.5312,-3563.9373)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4562"
+       id="linearGradient859"
+       x1="252.87387"
+       y1="27.130253"
+       x2="282.67517"
+       y2="47.335827"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-4.4901281,3.7417734)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="406.80477"
+     inkscape:cy="553.3068"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="835"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid12" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,3)">
+    <path
+       style="fill:none;stroke:url(#linearGradient845);stroke-width:30;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 209.53125,67.62495 h -79.3749 c 0,0 -39.6876,0 -39.6876,39.6876 0,39.6876 39.6876,39.6876 39.6876,39.6876 h 39.6876 c 0,0 39.6873,0 39.6873,39.6873 0,39.6876 -39.6873,39.6876 -39.6873,39.6876 h -79.3752"
+       id="path13"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path847"
+       cx="90.468887"
+       cy="226.37471"
+       rx="7.9375"
+       ry="7.9374995" />
+    <ellipse
+       cy="67.625015"
+       cx="209.53139"
+       id="circle849"
+       style="fill:#ffffff;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       rx="7.9375"
+       ry="7.9374995" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Google Sans';-inkscape-font-specification:'Google Sans Medium';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient859);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="232.57654"
+       y="52.051842"
+       id="text46"><tspan
+         sodipodi:role="line"
+         x="232.57654"
+         y="52.051842"
+         id="tspan44"
+         style="fill:url(#linearGradient859);fill-opacity:1;stroke-width:0.26458332"><tspan
+           x="232.57654"
+           y="52.051842"
+           id="tspan42"
+           style="fill:url(#linearGradient859);fill-opacity:1;stroke-width:0.26458332">CI</tspan></tspan></text>
+  </g>
+</svg>
